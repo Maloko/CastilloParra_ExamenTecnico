@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7woR5UaYC2E/sTcwXkFDgbp5bEXFQdMUwJASi2LDlKINuT5JUzk316C2LBL080yk25ElJWxjju/v03SxYQ1ciQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marlo\\OneDrive\\Desktop\\ExamenTecnico-CastilloParraMarlon\\Cliente\\ClienteMVC\\ClienteMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marlo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

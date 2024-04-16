@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdTNnTls3w0W8zFrCQgu2sQAAAAACAAAAAAAQZgAAAAEAACAAAABJ8jzKbTuyyOVbtYaCn0LUq0d/Mv4ZIh2QssUIKpwh3AAAAAAOgAAAAAIAACAAAABf8HsBZLVQ6eMhjsdvh65vabpN4WXG/CLk9EY0ldZkpyAAAADB7ZBLe9nCBEFr3++sdxdU81xJR7GRvHBnM65Isj8PfUAAAABlnP1XeSGarg1FnzTDCi0G7aHWuBEp+trJalZpsm7CTpBJxWhlydDWYm87nyCL+BAiLlR322z6hpF3T8mmXg3c</EncryptedPassword>
+    <_PublishTargetUrl>ftp://155.254.244.35/www.crudoechsle.somee.com</_PublishTargetUrl>
+    <History>True|2024-04-16T05:44:16.8409200Z;True|2024-04-16T00:21:04.6655993-05:00;True|2024-04-15T23:49:42.5002196-05:00;True|2024-04-15T23:45:14.8090630-05:00;True|2024-04-15T23:32:06.0341517-05:00;False|2024-04-15T23:29:57.4032530-05:00;True|2024-04-15T23:12:25.8539767-05:00;True|2024-04-15T23:01:54.5517898-05:00;True|2024-04-15T22:51:04.9875916-05:00;True|2024-04-15T22:27:23.3229705-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>04/15/2024 12:23:34</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>04/16/2024 00:36:10</publishTime>
+    </File>
+    <File Include="ClienteAPI.deps.json">
+      <publishTime>04/16/2024 00:43:14</publishTime>
+    </File>
+    <File Include="ClienteAPI.dll">
+      <publishTime>04/16/2024 00:43:14</publishTime>
+    </File>
+    <File Include="ClienteAPI.exe">
+      <publishTime>04/16/2024 00:43:14</publishTime>
+    </File>
+    <File Include="ClienteAPI.pdb">
+      <publishTime>04/16/2024 00:43:14</publishTime>
+    </File>
+    <File Include="ClienteAPI.runtimeconfig.json">
+      <publishTime>04/15/2024 22:26:31</publishTime>
+    </File>
+    <File Include="ClienteAPI.xml">
+      <publishTime>04/16/2024 00:43:14</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>01/17/2024 22:05:26</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 15:14:12</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>10/26/2023 18:34:06</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 06:24:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 06:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 06:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>10/26/2023 18:34:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/19/2022 10:21:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/19/2022 10:21:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/19/2022 10:21:48</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>10/26/2023 18:27:26</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/16/2024 00:43:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+Api publicada:http://www.crudoechsle.somee.com/swagger/index.html
+hosting:https://somee.com/

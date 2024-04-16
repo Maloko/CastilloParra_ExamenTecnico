@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClienteAPI</name>
+    </assembly>
+    <members>
+        <member name="T:ClienteAPI.Controllers.ClienteController">
+            <summary>
+            Controlador para administrar los clientes.
+            </summary>
+        </member>
+        <member name="M:ClienteAPI.Controllers.ClienteController.Listar">
+            <summary>
+            Obtiene lista de todos los clientes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ClienteAPI.Controllers.ClienteController.Crear(ClienteAPI.Models.Cliente)">
+            <summary>
+            Crea un cliente
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ClienteAPI.Controllers.ClienteController.GetCliente(System.Int32)">
+            <summary>
+            Obtener cliente específico por Id (todos los datos más edad)
+            </summary>
+            <param name="idCliente">ID Cliente</param>
+            <returns>El cliente correspondiente al ID proporcionado.</returns>
+        </member>
+        <member name="M:ClienteAPI.Controllers.ClienteController.ListarMayorEdad">
+            <summary>
+            Obtiene lista de los 3 primeros clientes con mayor Edad
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
